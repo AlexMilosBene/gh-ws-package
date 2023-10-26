@@ -12,7 +12,7 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v3
       - run: |
-          git config --global user.name "AlexMilosBene"
+          git config --global user.name "alexmilosbene"
           git config --global user.email "alex.milos@benestudio.co"
       - run: |
           git fetch
