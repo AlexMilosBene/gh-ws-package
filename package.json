@@ -1,5 +1,5 @@
 {
-  "name": "@AlexMilosBene/gh-ws-package",
+  "name": "@alexmilosbene/gh-ws-package",
   "version": "0.1.7",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
